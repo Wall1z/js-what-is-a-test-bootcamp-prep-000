@@ -1,7 +1,11 @@
 
-var word
-
-// assign a value to the variable
-word = 'bird'
-
-console.log(window.word) // 'bird'
+vvar a = 5,
+    b = 2,
+    c = 3,
+    d = 'hello',
+    e = 'goodbye';
+    console.log(a)
+    console.log(b)
+    console.log(c)
+    console.log(d)
+    console.log(e)
