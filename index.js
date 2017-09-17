@@ -4,3 +4,13 @@ var height = 39
 var message = `${name} is ${height} inches tall`
 
 module.exports = {name, height, message}
+var a = 5,
+    b = 2,
+    c = 3,
+    d = 'hello',
+    e = 'goodbye',
+    console.log(a)
+    console.log(b)
+    console.log(c)
+    console.log(d)
+    console.log(e)
