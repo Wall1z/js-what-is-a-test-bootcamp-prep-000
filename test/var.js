@@ -1,5 +1,5 @@
 
-vvar a = 5,
+var a = 5,
     b = 2,
     c = 3,
     d = 'hello',
